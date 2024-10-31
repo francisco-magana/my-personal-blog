@@ -1,0 +1,23 @@
+languageCode = "es"
+languageName = "Español"
+weight = 2
+title = "Francisco Magaña"
+contentDir = 'content/es'
+
+
+[params]
+  displayName = "ES"
+  isoCode = "es-MX"
+  rtl = false
+  # logo = "img/avatar.png"
+  description = "Mi blog personal"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Francisco Magaña"
+  image = "img/portrait.png"
+  headline = "Mi blog personal."
+  bio = "Software engineer"
+  links = [ { linkedin = "https://www.linkedin.com/in/francisco-javier-magana-palomeque" }, { github = "https://github.com/francisco-magana" } ]

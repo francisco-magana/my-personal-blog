@@ -1,4 +1,4 @@
-colorScheme = "forest"
+colorScheme = "avocado"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
@@ -19,7 +19,7 @@ layout = "profile"
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
-showMoreLinkDest = "/blowfish_lite/posts"
+showMoreLinkDest = "posts"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
