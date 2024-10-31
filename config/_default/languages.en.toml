@@ -10,7 +10,7 @@ isoCode = "en"
 rtl = false
 description = "My personal blog."
 dateFormat = "2 January 2006"
-author = { name = "Francisco Magaña", image = "img/avatar.png", headline = "My personal blog.", bio = "Software engineer", links = [ { linkedin = "https://www.linkedin.com/in/francisco-javier-magana-palomeque" }, { github = "https://github.com/francisco-magana" } ] }
+author = { name = "Francisco Magaña", image = "img/portrait.png", headline = "My personal blog.", bio = "Software engineer", links = [ { linkedin = "https://www.linkedin.com/in/francisco-javier-magana-palomeque" }, { github = "https://github.com/francisco-magana" } ] }
 
 [author]
 links = [ { github = "https://github.com/francisco-magana" }, { linkedin = "www.linkedin.com/in/francisco-javier-magana-palomeque" } ]
